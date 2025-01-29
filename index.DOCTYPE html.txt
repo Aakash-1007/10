@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="College website for XYZ University">
+    <meta name="keywords" content="college, university, courses, education">
+    <meta name="author" content="XYZ College">
+    <title>XYZ College</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your external CSS file -->
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <div class="logo">
+            <img src="college-logo.png" alt="XYZ College Logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#courses">Courses</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Home Section -->
+    <section id="home" class="hero">
+        <h1>Welcome to XYZ College</h1>
+        <p>Your gateway to a brighter future in education.</p>
+        <a href="#about" class="btn">Learn More</a>
+    </section>
+
+    <!-- About Us Section -->
+    <section id="about">
+        <h2>About XYZ College</h2>
+        <p>XYZ College is dedicated to providing quality education and fostering the development of students. We offer a wide range of undergraduate and postgraduate programs to help students achieve their academic and professional goals.</p>
+    </section>
+
+    <!-- Courses Section -->
+    <section id="courses">
+        <h2>Courses We Offer</h2>
+        <ul>
+            <li>Bachelor of Science in Computer Science</li>
+            <li>Bachelor of Arts in Business Administration</li>
+            <li>Master of Science in Data Science</li>
+            <li>Master of Arts in Marketing</li>
+        </ul>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>If you have any questions, feel free to reach out to us:</p>
+        <ul>
+            <li>Email: info@xyzcollege.edu</li>
+            <li>Phone: +123 456 7890</li>
+            <li>Address: 123 College Street, City, Country</li>
+        </ul>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2025 XYZ College | All Rights Reserved</p>
+        <p>Follow us on:
+            <a href="https://facebook.com/xyzcollege">Facebook</a> | 
+            <a href="https://twitter.com/xyzcollege">Twitter</a> | 
+            <a href="https://instagram.com/xyzcollege">Instagram</a>
+        </p>
+    </footer>
+
+</body>
+</html>
